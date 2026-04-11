@@ -81,9 +81,9 @@ const siteData = {
     ctaSecondary: "Get Free Quote",
     trustBadge: "10,000+ Properties Treated",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85", alt: "Professional Pest Control professional image 1" },
+      { url: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1920&q=85", alt: "Professional Pest Control professional image 1" },
       { url: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1920&q=85", alt: "Professional Pest Control professional image 2" },
-      { url: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85", alt: "Professional Pest Control showcase" },
+      { url: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1920&q=85", alt: "Professional Pest Control showcase" },
     ],
   },
 
@@ -136,7 +136,7 @@ const siteData = {
         slug: "general-pest-control",
         desc: "Comprehensive treatment for cockroaches, ants, spiders, and general household pests using eco-safe formulations.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
       },
       {
         title: "Termite Treatment",
@@ -150,7 +150,7 @@ const siteData = {
         slug: "fumigation-services",
         desc: "Professional fumigation for warehouses, grain stores, and commercial premises using certified fumigants.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
       },
       {
         title: "Rodent Control",
@@ -164,7 +164,7 @@ const siteData = {
         slug: "bed-bug-elimination",
         desc: "Heat treatment and chemical applications for complete bed bug elimination. Hotel and residential specialist.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
       },
       {
         title: "Sanitization",
@@ -188,9 +188,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in general pest control.",
         client: "Commercial Client",
         services: ["General Pest Control", "Termite Treatment"],
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
           "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
         ],
       },
@@ -205,7 +205,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
         ],
       },
       {
@@ -216,9 +216,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in fumigation services.",
         client: "Industrial Client",
         services: ["Fumigation Services", "Rodent Control"],
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
           "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
         ],
       },
@@ -233,7 +233,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
         ],
       },
       {
@@ -244,9 +244,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in bed bug elimination.",
         client: "Commercial Client",
         services: ["Bed Bug Elimination", "Sanitization"],
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
           "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
         ],
       },
@@ -261,7 +261,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=80",
         ],
       },
     ],
@@ -377,7 +377,7 @@ const siteData = {
     ctaPrimary: "Book Treatment",
     ctaSecondary: "Chat on WhatsApp",
     whatsappText: "Hello! I need pest control/fumigation services for my property.",
-    backgroundImage: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1920&q=85",
   },
 
   footer: {
